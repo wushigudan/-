@@ -1,8 +1,8 @@
 # 高德地区查询工具 兴趣点查询
 高德查询指定区域的商铺或者其他关键字查询
 ##
-bash
 pip3 install PyQt5
+
 pip3 install requests
 
 
